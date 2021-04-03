@@ -6,5 +6,5 @@ C Parallel Programming--
 
 Simple MPI usage.
 
--mpicc
--mpi 
+#-mpicc
+#-mpi 
